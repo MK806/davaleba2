@@ -1,1 +1,1 @@
-# davaleba2
+Second homework functions for Skillwill course
